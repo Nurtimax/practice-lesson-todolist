@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practice-lesson-todolist/static/css/main.964fdded.css",
+    "main.js": "/practice-lesson-todolist/static/js/main.6fe865cc.js",
+    "index.html": "/practice-lesson-todolist/index.html",
+    "main.964fdded.css.map": "/practice-lesson-todolist/static/css/main.964fdded.css.map",
+    "main.6fe865cc.js.map": "/practice-lesson-todolist/static/js/main.6fe865cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.6fe865cc.js"
+  ]
+}
